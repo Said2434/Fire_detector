@@ -1,0 +1,2 @@
+fire_model.pth filter=lfs diff=lfs merge=lfs -text
+fire-segmentation-dataset.zip filter=lfs diff=lfs merge=lfs -text
